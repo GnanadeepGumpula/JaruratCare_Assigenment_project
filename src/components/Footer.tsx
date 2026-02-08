@@ -12,7 +12,7 @@ export default function Footer() {
                 <Heart className="w-7 h-7 text-white" fill="white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">JaruratCare</h3>
+                <h3 className="text-2xl font-bold">Jarurat Care</h3>
                 <p className="text-sm text-gray-400">Compassion in Action</p>
               </div>
             </div>
